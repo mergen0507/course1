@@ -1,5 +1,5 @@
 <?php
-//1.2.0
+//1.3.0
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
