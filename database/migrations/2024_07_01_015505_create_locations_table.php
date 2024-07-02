@@ -1,5 +1,5 @@
 <?php
-//1.3.0
+//1.4.0 laravel
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
